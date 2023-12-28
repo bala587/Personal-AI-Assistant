@@ -19,7 +19,7 @@ Empower your digital interactions with our state-of-the-art chatbot inspired by 
 - OpenAI API Integration
 - Clean and Intuitive Design
 
-  ### Cloning the repository
+### Cloning the repository
 
 ```shell
 git clone https://github.com/bala587/Personal-AI-Assistant.git
