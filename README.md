@@ -9,7 +9,7 @@ Introducing the Personal AI Assistant 🌐🤖
 Empower your digital interactions with our state-of-the-art chatbot inspired by ChatGPT—your go-to companion for seamless and natural language conversations. Meet the Personal AI Assistant, designed to make your interactions smarter, more intuitive, and personalized.
 
 🔍 Key Features:
-- Task Assistance
+
 - Learning and Adaptation
 - Multi-functional
 - User-Friendly Interface
@@ -19,11 +19,7 @@ Empower your digital interactions with our state-of-the-art chatbot inspired by 
 - OpenAI API Integration
 - Clean and Intuitive Design
 
-### Cloning the repository
 
-```shell
-git clone https://github.com/bala587/Personal-AI-Assistant.git
-```
 
 ### Install packages (client and server)
 
