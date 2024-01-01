@@ -8,7 +8,7 @@ Introducing the Personal AI Assistant 🌐🤖
 
 Empower your digital interactions with our state-of-the-art chatbot inspired by ChatGPT—your go-to companion for seamless and natural language conversations. Meet the Personal AI Assistant, designed to make your interactions smarter, more intuitive, and personalized.
 
-🔍 Key Features:
+### 🔍 Key Features:
 
 - Learning and Adaptation
 - Multi-functional
