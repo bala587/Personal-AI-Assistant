@@ -1,4 +1,4 @@
-# Persoanl AI Assistant (ChatGPT Clone)
+# Persoanl AI Assistant (ChatGPT Clone) 
 
 ![final output ](https://i.pinimg.com/originals/5a/b9/dd/5ab9dd9e01072fff631e28fb061c854d.jpg)
 
